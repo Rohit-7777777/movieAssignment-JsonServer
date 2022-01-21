@@ -1,0 +1,16 @@
+{
+  "movieData": [
+    {
+      "id": "0.00026380904383360715",
+      "title": "3 Idiots",
+      "description": "its a hindi movie",
+      "genre": "Comedy",
+      "data": {
+        "id": "0.00026380904383360715",
+        "title": "3 Idiots",
+        "description": "its a hindi movie",
+        "genre": "Comedy"
+      }
+    }
+  ]
+}

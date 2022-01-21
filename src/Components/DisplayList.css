@@ -1,0 +1,31 @@
+.list__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: cadetblue;
+}
+.list__action {
+  width: 60%;
+  margin: 0 auto;
+  border: 1px solid cadetblue;
+  margin-top: 1rem;
+}
+p {
+  font-weight: bold;
+}
+.child {
+  margin-left: 1rem;
+}
+.gen {
+  font-weight: bolder;
+  font-size: large;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 1rem;
+}
+.ed {
+  margin-left: 2rem;
+  margin-bottom: 0.5rem;
+}

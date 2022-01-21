@@ -1,0 +1,23 @@
+#container {
+  width: 40%;
+  margin: auto;
+  font-family: sans-serif;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  font: size 20px;
+}
+input,
+button,
+select {
+  height: 30px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid rgb(175, 175, 175);
+}
+button {
+  background-color: rgb(3, 122, 233);
+  color: white;
+  border: none;
+}
